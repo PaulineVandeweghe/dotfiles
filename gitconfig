@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = vandeweghe.pauline@gmail.com
+	name = pauline vandeweghe
